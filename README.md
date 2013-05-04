@@ -22,3 +22,4 @@ TODOS
 THANK YOUS
 ----------
 I was unable to attend @hacknashville because, well, I was watching the NBA playoffs. Consider this to be my contribution.
+The project is a modification of Gunther Groenewege's original implementation of a Things.app integration into Status Board. I kept most of the CSS styles, which came with some recommendations from Panic and stripped out the Things code. Thanks to him for putting up his project.
